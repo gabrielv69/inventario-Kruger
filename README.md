@@ -2,6 +2,13 @@
 
 Registro del inventario del estado de vacunación de los empleados -BACKEND
 
+El [FrontEnd](https://github.com/gabrielv69/font_Kruger) de este proyecto, lo podemos encontrar en: 
+
+https://github.com/gabrielv69/font_Kruger
+
+## Modelo de la base de Datos
+![Modelo](https://github.com/gabrielv69/inventario-Kruger/blob/main/Model-Database-Inventario.png)
+
 ## Installation
 
 Usar [git](https://git-scm.com/downloads) para clonar el repositorio
